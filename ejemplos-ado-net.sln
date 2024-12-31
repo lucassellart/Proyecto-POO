@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform app", "winform app\winform app.csproj", "{EDF8E13B-6EE1-4A08-BC30-BA95BD632001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{1E2CAB07-6549-4E1B-A0A9-EBB3C5014AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{EDB79323-017C-4A04-9929-BD130D2156ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF8E13B-6EE1-4A08-BC30-BA95BD632001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF8E13B-6EE1-4A08-BC30-BA95BD632001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF8E13B-6EE1-4A08-BC30-BA95BD632001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF8E13B-6EE1-4A08-BC30-BA95BD632001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2CAB07-6549-4E1B-A0A9-EBB3C5014AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2CAB07-6549-4E1B-A0A9-EBB3C5014AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2CAB07-6549-4E1B-A0A9-EBB3C5014AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2CAB07-6549-4E1B-A0A9-EBB3C5014AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB79323-017C-4A04-9929-BD130D2156ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB79323-017C-4A04-9929-BD130D2156ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB79323-017C-4A04-9929-BD130D2156ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB79323-017C-4A04-9929-BD130D2156ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B872597-B187-432C-81BF-D55CC08239B9}
+	EndGlobalSection
+EndGlobal
